@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>827e6154-2887-4025-8819-0dbace06eed4</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>6adae8da-ac24-4db3-bb96-284c74909e8a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>e82381ba-470c-49e6-9bc4-b9e408b596b4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
